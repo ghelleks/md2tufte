@@ -8,13 +8,15 @@ Text on a page.
 
 ## Sed vulnera sit ficto illa capioque ad
 
-![A sweet umbrella](https://atechnologyjobisnoexcuse.com/files/2014/11/tumblr_nettic87pA1roloeko1_1280.jpg)
+![A sweet S-Curve](https://atechnologyjobisnoexcuse.com/files/2014/08/S-Curve13.png)
 
 <div class="notes">
 Lorem markdownum iudice; fuisse est, fastus praefertur tela volucrem: vitam.
 Dona cornua quoque colorum pendere o dixit cum, *haut* capit discussa isto.
-**Tibi Cerealia**! Montes in fretum ante additis virgis: **nidos vel mihi**
+**Tibi Cerealia**! Montes[^note] in fretum ante additis virgis: **nidos vel mihi**
 uterque. Custos patrem, dives fuga aethera, habuit est ungues quae flammamque.
+
+[^note]: lorem ipsum
 </div>
 
 ## Amor dum munera numina statuistis nullumque demens
@@ -24,12 +26,13 @@ uterque. Custos patrem, dives fuga aethera, habuit est ungues quae flammamque.
 * vulgat contraria levis
 
 <div class="notes">
-Est praesignis[^1] tyranni viaeque Pelasgos et nudaque vulgat contraria levis
+Est [praesignis][1] tyranni viaeque Pelasgos et nudaque vulgat contraria levis
 fruticumque vota conveniant, adopertaque! Gradu caelo tempora, quo dato solis,
 per, moderato curru munus; nostro.
 
-[^1]: Check out the sweet footnotes.
+[1]: https://ghlink.in/6-
 </div>
+
 
 ## Rursus Circen
 
