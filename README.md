@@ -3,6 +3,8 @@
 Some scaffolding to create a reveal.js presentation and Tufte-compliant
 handout from the same Markdown source.
 
+For sample output, see http://ghelleks.github.io/md2tufte
+
 ## The Source
 
 Your markdown file (see [sample.md](https://github.com/ghelleks/md2tufte/blob/master/sample.md)) starts with some metadata, like:
