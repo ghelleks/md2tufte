@@ -5,7 +5,7 @@ handout from the same Markdown source.
 
 ## The Source
 
-Your markdown file (see `sample.md`) starts with some metadata, like:
+Your markdown file (see [sample.md](https://github.com/ghelleks/md2tufte/blob/master/sample.md)) starts with some metadata, like:
 
 ```
 % My Title
@@ -13,7 +13,7 @@ Your markdown file (see `sample.md`) starts with some metadata, like:
 % 12 November 2014
 ```
 
-(For more complicated metadata, play with `sample.yaml`)
+(For more complicated metadata, play with [sample.yaml](https://github.com/ghelleks/md2tufte/blob/master/sample.yaml))
 
 Three simple rules for the rest:
 
