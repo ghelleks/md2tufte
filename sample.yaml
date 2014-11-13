@@ -1,0 +1,20 @@
+---
+title:
+- type: main
+  text: Sample Presentation
+- type: subtitle
+  text: This is the subtitle.
+author:
+- text: John Doe
+creator:
+- role: author
+  text: John Doe
+identifier:
+- scheme: DOI
+  text: doi:XXX
+publisher: foo
+rights: 
+  text: (c) 2014 John Doe, CC BY-NC
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar orci ac nisi auctor, eu vestibulum felis hendrerit. Ut vel pharetra arcu. Vestibulum ullamcorper felis at porttitor elementum. Ut nunc urna, dictum at purus sollicitudin, pretium lobortis nibh. In odio turpis, pretium sed dapibus a, ornare sed sapien. Etiam porta odio a turpis iaculis, vel ultrices est bibendum. Curabitur hendrerit blandit purus vel cursus. Nullam facilisis sed lorem sed tempus. Mauris facilisis aliquet eros vitae posuere. Nulla justo metus, faucibus ac ipsum nec, vestibulum dignissim sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+---
