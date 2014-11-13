@@ -8,9 +8,9 @@ TARGET_DIR = output
 HTML_TARGET = $(TARGET_DIR)/sample.html
 REVEALJS_TARGET = $(TARGET_DIR)/sample-presentation.html
 PDF_TARGET = $(TARGET_DIR)/sample.pdf
-ODP_TARGET = $(TARGET_DIR)/sample.odp
+ODT_TARGET = $(TARGET_DIR)/sample.odt
 
-TARGET = $(HTML_TARGET) $(REVEALJS_TARGET) $(PDF_TARGET) $(ODP_TARGET)
+TARGET = $(HTML_TARGET) $(REVEALJS_TARGET) $(PDF_TARGET) $(ODT_TARGET)
 
 # reveal.js options
 REVEALJS_THEME := sky
@@ -45,9 +45,9 @@ pdf: $(PDF_TARGET)
 %.pdf: $(SOURCE) $(LATEX_TEMPLATE) $(LATEX_PREAMBLE)
 		$(PANDOC) -V links-as-notes -H $(LATEX_PREAMBLE) --template $(LATEX_TEMPLATE) -o $@ $(SOURCE)
 
-# generate odp file
-odp: $(ODP_TARGET)
-%.odp: $(SOURCE)
+# generate odt file
+odt: $(ODT_TARGET)
+%.odt: $(SOURCE)
 		$(PANDOC) -o $@ $(SOURCE)
 
 # delete everything we make
